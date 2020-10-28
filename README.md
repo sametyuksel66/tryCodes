@@ -1,2 +1,2 @@
-# BABoost
-kod denemeleri
+# tryCodes
+some idea some try code
