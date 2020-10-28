@@ -1,2 +1,2 @@
 # BABoost
-Bilgeadam Boost Programı Çalışmaları
+kod denemeleri
